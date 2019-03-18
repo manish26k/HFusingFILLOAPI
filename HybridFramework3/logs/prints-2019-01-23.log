@@ -1,0 +1,6 @@
+10:54:59.287 [main] INFO  HybridFramework.base.HybridFramework_TestBase - URL get loaded
+10:55:00.425 [main] INFO  HybridFramework.base.HybridFramework_TestBase - setImplicitWait
+10:55:00.430 [main] INFO  HybridFramework.base.HybridFramework_TestBase - setPageLoadTimeout
+10:55:00.452 [main] INFO  HybridFramework.Testscases.LoginPageTest - Loginpage intialiazed
+10:55:00.537 [main] INFO  HybridFramework.Testscases.LoginPageTest - loginToApplication method is called..
+10:55:00.537 [main] INFO  HybridFramework.PageObjects.Loginpage - clickonSignIn

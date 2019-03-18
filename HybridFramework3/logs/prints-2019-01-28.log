@@ -1,0 +1,6 @@
+13:54:56.977 [main] INFO  HybridFramework.base.HybridFramework_TestBase -  browser gets intialiazed
+13:55:07.596 [main] INFO  HybridFramework.base.HybridFramework_TestBase - URL get loaded
+13:55:08.802 [main] INFO  HybridFramework.base.HybridFramework_TestBase - setImplicitWait
+13:55:08.806 [main] INFO  HybridFramework.base.HybridFramework_TestBase - setPageLoadTimeout
+13:55:08.844 [main] INFO  HybridFramework.Testscases.LoginPageTest - Loginpage intialiazed
+13:55:09.852 [main] INFO  HybridFramework.Testscases.LoginPageTest - loginToApplication method is called..

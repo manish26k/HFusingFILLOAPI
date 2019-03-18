@@ -1,0 +1,6 @@
+13:21:45.853 [main] INFO  HybridFramework.Testscases.LoginPageTest - Loginpage intialiazed
+13:21:45.923 [main] INFO  HybridFramework.Testscases.LoginPageTest - loginToApplication method is called..
+13:21:45.924 [main] INFO  HybridFramework.base.HybridFramework_ObjectBase - clickonSignIn
+13:21:48.573 [main] INFO  HybridFramework.base.HybridFramework_ObjectBase - enterPassword.....Passval
+13:21:48.670 [main] INFO  HybridFramework.base.HybridFramework_ObjectBase - clickonSignInbutton
+13:21:50.188 [main] INFO  HybridFramework.base.HybridFramework_ObjectBase - returning MyAccountpage

@@ -1,0 +1,6 @@
+16:30:49.054 [main] INFO  HybridFramework.base.HybridFramework_TestBase - setPageLoadTimeout
+16:30:49.075 [main] INFO  HybridFramework.Testscases.LoginPageTest - Loginpage intialiazed
+16:30:49.134 [main] INFO  HybridFramework.Testscases.LoginPageTest - loginToApplication method is called..
+16:30:49.134 [main] INFO  HybridFramework.base.HybridFramework_ObjectBase - clickonSignIn
+16:30:51.556 [main] INFO  HybridFramework.base.HybridFramework_ObjectBase - enterEmailAddress.....Emailadd
+16:30:51.689 [main] INFO  HybridFramework.base.HybridFramework_ObjectBase - enterPassword.....Passval
